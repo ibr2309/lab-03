@@ -10,5 +10,7 @@
 List any resources used here, or simply put `N/A` if not applicable.
 
 Lab 3 Slides
+
 Lab 3 Instructions
+
 Kotlin Code Conventions PDF
