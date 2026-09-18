@@ -2,16 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Ibrahim Shaikh`
+- **CCID:** `ishaikh1`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
 
-## Verbal Collaboration
-
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+Lab 3 Slides
+Lab 3 Instructions
+Kotlin Code Conventions PDF
